@@ -3,21 +3,14 @@
 <h3 align="center">A passionate Designer and Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif".
 
+⚽ **I love Manchester United**
+
 🌱 I’m currently learning : **Kotlin, React Js**
 
 ⚒️ I’m looking to collaborate on : [HIMTI APPS](https://play.google.com/store/apps/details?id=org.himtiumt.himti_apps)
 
-📝 I regularly write articles on : [https://medium.com/@renandaraka10](https://medium.com/@renandaraka10)
-
 💬 Ask me about : **Design, Android, Web Development**
 
-📫 How to reach me **renandaraka17@gmail.com**
-
-⚽ **I love Manchester United**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
