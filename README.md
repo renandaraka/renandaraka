@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/38094b95235473.5e92ecc4409a8.gif)](https://renandaraka.io)
-<h1 align="center">Hi 👋, I'm Renanda Raka</h1>
+<h1 align="center">Hi, I'm Renanda Raka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <h3 align="center">A passionate Designer and Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif".
 
